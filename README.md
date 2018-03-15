@@ -1,8 +1,12 @@
-# centons7-_initinstallscripts
-讓自己以後可以在新的Centos7環境
+# linux-_initinstallscripts
+Wiki會記錄有關Linux的常見問題
+
 快速安裝所需套件
+##### 2018-03-15 #####
+將這篇repo更改為linux
+跟linux相關的會直接放在這個repo
 ##### 2018-03-14 #####
-第一版
+第一版 (For Centos7)
 1. 設定時區
 2. 安裝 net-tools
 3. 安裝 wget
